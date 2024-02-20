@@ -1,4 +1,5 @@
-# Rohan-Sharma
+# Clean and analyze social media usage data with Python
+
 👋 Hi, I’m rohansharma321
 👀 I’m interested in Data Analysis and Data Science
 🌱 I’m currently learning new skill in the above fields
